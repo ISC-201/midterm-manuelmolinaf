@@ -1,0 +1,7 @@
+start = 'enter'
+debug = 'f'
+add and remove asteroids = 'Q' & 'E'
+fire = 'SPACE'
+forward = 'W'
+rotate left and right = 'A' & 'D'
+respawn = 'R'
